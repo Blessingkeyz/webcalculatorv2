@@ -4,6 +4,7 @@ import BgAnimation from './BackgroundAnimation'
 import Button from './Button'
 import lighton from '../assets/images/lighton.png'
 import lightoff from '../assets/images/lightoff.png'
+import evaluate from 'evaluator.js'
 
 const Calculator = () => {
 
@@ -23,7 +24,7 @@ const Calculator = () => {
                     var ans = '0';
                     console.log(ans);
                     try {
-                        ans = eval(calcval.question)
+                        ans = evaluate(calcval.question)
                     }
                     catch (err) {
                         setCalcval({ answer: "Math Error" });

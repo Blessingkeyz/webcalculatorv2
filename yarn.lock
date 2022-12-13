@@ -1379,6 +1379,11 @@ evaluate@^1.0.2:
   resolved "https://registry.yarnpkg.com/evaluate/-/evaluate-1.0.2.tgz#de8942346c8046e693f586aef30ace5603eced89"
   integrity sha512-eCEnkJHtDE1dDuw8AKWFUupbI5j104KBwHqHxcsn/r+uei2rE/jTZt30XR5tjQXCRp0KlGdDzoVBSBPTh0fj1w==
 
+evaluator@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/evaluator/-/evaluator-1.0.2.tgz#ab2802f886b16fbf64b62cee513d2c5ea9129a23"
+  integrity sha512-zX63FSvXwa5fyl0Ef7WfAvTUNng05PLBCZJ4qBBQX1Dqjhylip9nKnNdI9Fv3oOyx+LdT0EGV6qLPROLneu39g==
+
 find-root@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/find-root/-/find-root-1.1.0.tgz#abcfc8ba76f708c42a97b3d685b7e9450bfb9ce4"
