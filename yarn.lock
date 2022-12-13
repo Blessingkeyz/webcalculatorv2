@@ -1374,6 +1374,11 @@ estree-walker@^2.0.1:
   resolved "https://registry.yarnpkg.com/estree-walker/-/estree-walker-2.0.2.tgz#52f010178c2a4c117a7757cfe942adb7d2da4cac"
   integrity sha512-Rfkk/Mp/DL7JVje3u18FxFujQlTNR2q6QfMSMB7AvCBx91NGj/ba3kCfza0f6dVDbw7YlRf/nDrn7pQrCCyQ/w==
 
+evaluate@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/evaluate/-/evaluate-1.0.2.tgz#de8942346c8046e693f586aef30ace5603eced89"
+  integrity sha512-eCEnkJHtDE1dDuw8AKWFUupbI5j104KBwHqHxcsn/r+uei2rE/jTZt30XR5tjQXCRp0KlGdDzoVBSBPTh0fj1w==
+
 find-root@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/find-root/-/find-root-1.1.0.tgz#abcfc8ba76f708c42a97b3d685b7e9450bfb9ce4"

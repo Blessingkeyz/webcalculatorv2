@@ -1,14 +1,12 @@
 import './App.css'
-import Footer from './components/Footer'
+import Calculator from './components/Calculator'
 import Nav from './components/Nav'
-import TodoApp from './components/TodoApp'
 
 function App() {
   return (
     <>
       <Nav />
-      <TodoApp />
-      <Footer />
+      <Calculator />
     </>
   )
 }
