@@ -1379,6 +1379,11 @@ evaluate@^1.0.2:
   resolved "https://registry.yarnpkg.com/evaluate/-/evaluate-1.0.2.tgz#de8942346c8046e693f586aef30ace5603eced89"
   integrity sha512-eCEnkJHtDE1dDuw8AKWFUupbI5j104KBwHqHxcsn/r+uei2rE/jTZt30XR5tjQXCRp0KlGdDzoVBSBPTh0fj1w==
 
+evaluator.js@^3.2.4:
+  version "3.2.4"
+  resolved "https://registry.yarnpkg.com/evaluator.js/-/evaluator.js-3.2.4.tgz#130b764a2f9465a1439331bc289ca2b5205284fb"
+  integrity sha512-3Ec/fIc5w1oKP+LA0ZhzZ//wkVuwrCz4s7Re6c5VLLu8sHzSSthiv/FFwqOXuwWMy7Iw3oZNvStiXDDk8IAItA==
+
 evaluator@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/evaluator/-/evaluator-1.0.2.tgz#ab2802f886b16fbf64b62cee513d2c5ea9129a23"
